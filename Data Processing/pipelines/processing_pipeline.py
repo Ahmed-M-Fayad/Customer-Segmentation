@@ -63,6 +63,7 @@ def process_customer_data(csv_path):
     # Drop processed columns
     columns_to_drop = [
         "ID",
+        "Dt_Customer",
         "AcceptedCmp3",
         "AcceptedCmp4",
         "AcceptedCmp5",

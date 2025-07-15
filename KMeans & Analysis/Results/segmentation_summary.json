@@ -1,0 +1,13 @@
+{
+  "total_customers": 2216,
+  "optimal_clusters": 2,
+  "silhouette_score": 0.26438552929158565,
+  "cluster_names": {
+    "0": "Standard Customers Group 0",
+    "1": "Premium Luxury Buyers"
+  },
+  "cluster_sizes": {
+    "0": 1326,
+    "1": 890
+  }
+}
