@@ -183,7 +183,7 @@ After rigorous testing of multiple clustering approaches:
   <img src="https://img.shields.io/badge/Ahmed%20Mohammad%20Fayad-Data%20Scientist-green?style=flat-square" alt="Ahmed Fayad">
 </div>
 
-- **Ahmed Mohammad Ammar** – Senior Data Scientist & ML Engineer
+- **Ahmed Mohammad Ammar** – Data Scientist & ML Engineer
 - **Ahmed Mohammad Fayad** – Data Scientist & Analytics Specialist
 
 ## 🔮 Future Enhancements
